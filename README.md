@@ -1,5 +1,13 @@
 # slack-downloader
 
+Forked version of [auino/slack-downloader](https://github.com/auino/slack-downloader)
+
+What is changed
+* downloading private photos and files (not only groups and channels like 
+original version)
+* written in Python 3
+
+
 `slack-downloader` is a tool to download/backup [Slack](https://slack.com) files on a local disk.
 
 The program will download latest files uploaded on Slack, on a configured directory.
